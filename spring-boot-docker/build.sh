@@ -2,4 +2,4 @@
 
 mvn clean package -Dmaven.test.skip=true
 
-docker build -t spring-boot-docker:lastest .
+docker build -t spring-boot-docker:latest .
